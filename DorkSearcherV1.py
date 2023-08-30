@@ -1,4 +1,4 @@
-from googlesearch import search
+from google-search import Search
 
 
 
