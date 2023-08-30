@@ -1,5 +1,6 @@
 # DorkSearcherV1
-a Simple tool to input Dork and get +20 result Website for fast Work
+
+ a tool designed to perform Google searches using a specific search query referred to as a "dork." It then filters the search results to exclude specific blacklisted websites and forum domains. The tool presents the user with a colorful banner and allows them to input search queries 
                                        
 <h1>Usage :</h1>
 
