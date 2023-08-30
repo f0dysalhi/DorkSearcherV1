@@ -7,7 +7,7 @@ git clone https://github.com/f0dysalhi/DorkSearcherV1
 
 cd DorkSearcherV1
 
-pip install -r requirements.txt
+pip install python-googlesearch
 
 python3 DorkSearcherV1
 
