@@ -3,20 +3,22 @@ from googlesearch import Search
 
 
 print('''  
-        .    _  .       _____________
-        |\_|/__/|    /               \ 
-       / / \/ \  \   / Telegram       \
-      /__|O||O|__ \ \     @OxD3vil   /
-     |/_ \_/\_/ _\ | \  ___________/
-     | | (____) | ||  |/
-     \/\___/\__/  // _/
-     (_/         ||
-      |          ||\
-      \        //_/ 
-        \______//
-       __|| __||
-     (____(____)
-    
+         _nnnn_                      
+        dGGGGMMb     ,"""""""""""""".
+       @p~qp~~qMb    | @f0dysalhi |
+       M|@||@) M|   _;..............'
+       @,----.JM| -'
+      JS^\__/  qKL
+     dZP        qKRb
+    dZP          qKKb
+   fZP            SMMb
+   HZM            MMMM
+   FqM            MMMM
+ __| ".        |\dS"qML
+ |    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMM|   .'
+     `-'       `--' 
       ''')
 def print_colored(text, color_code):
     print(f"\033[{color_code}m{text}\033[0m")
